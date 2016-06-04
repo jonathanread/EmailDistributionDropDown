@@ -1,1 +1,2 @@
 # EmailDistributionDropDown
+This is a Sitefinity form widget that allows the CMS user to configure a dropdown to send the form submitted email to that address. You must configure Notification & system SMTP within sitefinty. This is using Siteinity 9.1.6110, it's a nuget packge and can be revertto whatever version you need
